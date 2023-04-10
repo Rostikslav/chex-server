@@ -1,1 +1,1 @@
-# skital-project
+# Skital Project
